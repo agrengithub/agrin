@@ -13,6 +13,6 @@
         "forceUpdate": "true",
         "apkLink":"https://my.uupload.ir/dl/VZLW"
     },
-    "configs": "http://195.201.130.6/v1/configs",
+    "configs": "https://raw.githubusercontent.com/agrengithub/agrin/main/configTemp",
     "proxies": "http://195.201.130.6/v1/proxies"
 }
