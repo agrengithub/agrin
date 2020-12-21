@@ -13,6 +13,6 @@
         "forceUpdate": "true",
         "apkLink":"https://my.uupload.ir/dl/k1drK"
     },
-    "configs": "http://195.201.130.6/v1/configs",
-    "proxies": "http://195.201.130.6/v1/proxies"
+    "configs": "https://dl.dropboxusercontent.com/s/wczkj2zrufwhyhr/config",
+    "proxies": "https://dl.dropboxusercontent.com/s/nffmasm192c7m9s/proxies"
 }
